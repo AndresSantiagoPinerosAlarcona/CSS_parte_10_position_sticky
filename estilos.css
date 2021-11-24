@@ -1,0 +1,12 @@
+*{
+	font-family: 'Anton',gorgia ;
+	font-weight: 100;
+	font-size: 40px;
+}
+
+.caja-fixed{
+	background: red;
+	position: sticky;          /*Es un bloque fijo que aprace luego de hacer scroll*/
+	opacity: 0.3;
+	top:0px;
+}
